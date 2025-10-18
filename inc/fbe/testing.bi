@@ -9,7 +9,7 @@
 ''Copyright (c) 2007-2024, FreeBASIC Extended Library Development Group
 ''Contains code contributed and Copyright (c) 2006-2008 Luis Lavena, Multimedia systems
 ''
-''Distributed under the MIT license. See accompanying file LICENSE for details
+''Distributed under the BSD 3-clause license. See accompanying file LICENSE for details
 ''
 # pragma once
 #ifndef __FBE_TESTING_BI__
