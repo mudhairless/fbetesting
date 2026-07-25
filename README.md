@@ -1,5 +1,8 @@
 # FBEtesting
 
+## Notice
+This repository has moved development to [CodeBerg](https://codeberg.org/mudhairless/fbetesting), this repository is archived and will not be updated.
+
 ## About
 FBEtesting is a Unit Testing Framework for the [FreeBASIC](https://www.freebasic.net) language.
 
